@@ -6,3 +6,5 @@ Git has a mutable index called stage
 Git tracks ****  changes ()()()()(l
 
 add merge
+
+git is a free software
