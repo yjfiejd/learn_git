@@ -4,3 +4,5 @@ gitt is free softward.
 yeah~ GPL
 Git has a mutable index called stage
 Git tracks ****  changes ()()()()(l
+
+add merge
