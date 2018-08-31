@@ -1,2 +1,5 @@
-git is a version control system.
-git is free softward.
+git is a version control system
+haha,i am xiugaiing
+gitt is free softward.
+yeah~ GPL
+
