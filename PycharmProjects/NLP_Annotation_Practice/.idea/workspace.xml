@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82a05302-660e-462f-aab3-86a72f34ecec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/json_files/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/.idea/yamada-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/1234567.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/yamada-test-v02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/yamada-test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_node_id_category_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_node_parent_relation_para.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/9-11_Graph_enumrating_test_02.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/Enumerating_test_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/Enumerating_test_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/Test-Enumerating_test_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/Test-Enumerating_test_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/generate_edges_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/generate_edges_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Practice/dict_to_graph_to_tree.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Practice/json_files/annotation37730-37739.json" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/json_files/annotation37730-37739.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Practice/json_files/train2anno.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/json_files/train2anno.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Practice/kruskal_code/kruskal_code_v01.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/kruskal_code_v01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/change_one_json_to_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/change_one_json_to_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_edges_with_and_without_weight.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_edges_with_and_without_weight.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_loop_edges_in_one_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_loop_edges_in_one_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_loop_edges_in_paragraph.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_loop_edges_in_paragraph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_loop_node_more_than_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_loop_node_more_than_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_roop_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_roop_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/json_to_all_trees.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/json_to_all_trees.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-453285537">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitattributes" value="1" />
+          <entry key="ipynb" value="20" />
+          <entry key="json" value="20" />
+          <entry key="md" value="1" />
+          <entry key="py" value="391" />
+          <entry key="txt" value="3" />
+          <entry key="yaml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IPNB" value="20" />
+          <entry key="JSON" value="20" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="391" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="59" />
+          <entry key="dummy" value="160" />
+          <entry key="json" value="2" />
+          <entry key="py" value="45916" />
+          <entry key="txt" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="2" />
+          <entry key="PLAIN_TEXT" value="165" />
+          <entry key="Python" value="45975" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="NLP_Annotation_Practice" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_node_id_category_name.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="431">
+              <caret line="164" column="5" lean-forward="true" selection-start-line="164" selection-start-column="5" selection-end-line="164" selection-end-column="5" />
+              <folding>
+                <element signature="e#456#467#0" expanded="true" />
+                <marker date="1538036178423" expanded="true" signature="614:619" ph="..." />
+                <marker date="1538036178423" expanded="true" signature="838:1057" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_node_parent_relation_para.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="568">
+              <caret line="263" lean-forward="true" selection-start-line="263" selection-end-line="263" />
+              <folding>
+                <element signature="e#23#34#0" expanded="true" />
+                <marker date="1538038899002" expanded="true" signature="6342:8373" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>强化</find>
+      <find>191</find>
+      <find>肝</find>
+      <find>外</find>
+      <find>138</find>
+      <find>\d+: (\{.+?\})</find>
+      <find>176</find>
+      <find>174</find>
+      <find>113</find>
+      <find>111</find>
+      <find>\(\d+, \d+\),?</find>
+      <find>277</find>
+      <find>categories</find>
+      <find>47</find>
+      <find>41</find>
+      <find>: 15</find>
+      <find>: 139</find>
+      <find>: 41</find>
+      <find>export_file_category</find>
+      <find>aa</find>
+      <find>find_loop_node_and_parent_para</find>
+      <find>139</find>
+      <find>id&quot;: 139</find>
+      <find>id&quot;: 57</find>
+      <find>id&quot;: 56</find>
+      <find>53</find>
+      <find>&quot;id&quot;: 121</find>
+      <find>json_path</find>
+      <find>find_paragraph_node_category_name</find>
+      <find>loop_node_more_than_2</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'weight': 0</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/NLP_Annotation_Stage_One" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/Weighted_graph_algorithm_python/kruskal.py" />
+        <option value="$PROJECT_DIR$/Weighted_graph_test/.pytest_cache/test_kruskal.py" />
+        <option value="$PROJECT_DIR$/Weighted_graph_test/test_kruskal.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/Dkjkstra_test.py" />
+        <option value="$PROJECT_DIR$/Weighted_graph_test/_test_json_result.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/Kruskal_9_4_20_11.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/just_for_test/just_for_test_9_8.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/Weighted_graph_test/_test_json_result.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/kruskal_code/kruskal_code_v02.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/DSF_Depth-First-Search.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/kruskal_code/DSF_Depth-First-Search.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/kruskal_code/DFS_for_all_nodes.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/Enumerating_spanning_trees.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/kruskal_code/prim_code_v01.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/generate_edges_test.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/Test-Enumerating_test_02.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/test/test_yamada.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/Enumerating_test_02.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/kruskal_code/kruskal_code_v01.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/test/yamada-test-v02.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/yamada-test-v02.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/yamada.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/yamada-test.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/json_files/annotation37730-37739.json" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/json_files/37529.json" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Stage_One/format_conversion.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Stage_One/connected_nodes_set.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Stage_One/change_json_to_dict.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/1234567.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_roop_tree.py" />
+        <option value="$PROJECT_DIR$/test.txt" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/json_files/37532.json" />
+        <option value="$PROJECT_DIR$/9-18-just_test.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_loop_node_more_than_2.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Stage_One/just_test_9-21.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Stage_One/generate_all_trees_in_subgraph.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Practice/json_files/train2anno.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Stage_One/json_to_all_trees.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_roop_tree.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Stage_One/json_files/build_graph_code.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Stage_One/nodes_connected_in_MST.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Stage_One/edges_format_conversion.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Stage_One/change_one_json_to_dict.py" />
+        <option value="$PROJECT_DIR$/python_test_data/json_file/build_graph_code.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_edges_with_and_without_weight.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Stage_One/edges_format_conversion_divided.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_loop_edges_in_paragraph.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_loop_edges_in_one_json.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_loop_node_more_than_2.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_node_id_category_name.py" />
+        <option value="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_node_parent_relation_para.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1440" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyInterpreterInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NLP_Annotation_Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NLP_Annotation_Practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NLP_Annotation_Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NLP_Annotation_Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="NLP_Annotation_Stage_One" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NLP_Annotation_Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NLP_Annotation_Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="python_test_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NLP_Annotation_Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NLP_Annotation_Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="python_test_data" type="462c0819:PsiDirectoryNode" />
+              <item name="json_file" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="find_all_edges_with_and_without_weight&#9;null&#9;null&#10;right_input&#9;null&#9;null&#10;all_loop_edges_in_one_json_list&#9;null&#9;null&#10;find_paragraph_node_category_name&#9;null&#9;null&#10;json_path&#9;null&#9;null&#10;all_graph&#9;null&#9;null&#10;all_graph_in_json&#9;null&#9;null&#10;json_pa&#9;null&#9;null&#10;anno&#9;FILE&#9;file:///Users/synyi/PycharmProjects/NLP_Annotation_Practice/NLP_Annotation_Practice/json_files/train2anno.py&#10;right_input:&#9;null&#9;null&#10;nodes_connected_sub&#9;null&#9;null" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python_test_data/json_file" />
+      <recent name="$PROJECT_DIR$/NLP_Annotation_Stage_One" />
+      <recent name="$PROJECT_DIR$/NLP_Annotation_Stage_One/json_files" />
+      <recent name="$PROJECT_DIR$/NLP_Annotation_Practice" />
+      <recent name="$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/NLP_Annotation_Stage_One" />
+      <recent name="$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.find_all_node_parent_relation_para">
+    <configuration name="find_all_loop_edges_in_one_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NLP_Annotation_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NLP_Annotation_Stage_One" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_loop_edges_in_one_json.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="find_all_loop_edges_in_paragraph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NLP_Annotation_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NLP_Annotation_Stage_One" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_loop_edges_in_paragraph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="find_all_loop_node_more_than_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NLP_Annotation_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NLP_Annotation_Stage_One" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_loop_node_more_than_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="find_all_node_id_category_name" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NLP_Annotation_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NLP_Annotation_Stage_One" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_node_id_category_name.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="find_all_node_parent_relation_para" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NLP_Annotation_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NLP_Annotation_Stage_One" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_node_parent_relation_para.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.find_all_loop_edges_in_paragraph" />
+      <item itemvalue="Python.find_all_loop_edges_in_one_json" />
+      <item itemvalue="Python.find_all_loop_node_more_than_2" />
+      <item itemvalue="Python.find_all_node_id_category_name" />
+      <item itemvalue="Python.find_all_node_parent_relation_para" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.find_all_node_parent_relation_para" />
+        <item itemvalue="Python.find_all_node_id_category_name" />
+        <item itemvalue="Python.find_all_loop_node_more_than_2" />
+        <item itemvalue="Python.find_all_loop_edges_in_one_json" />
+        <item itemvalue="Python.find_all_loop_edges_in_paragraph" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82a05302-660e-462f-aab3-86a72f34ecec" name="Default Changelist" comment="" />
+      <created>1536025398030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536025398030</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_test_graphs_TestGraphDirected_test_cmp - 2018.09.07 at 11h 11m 10s.xml">
+      <configuration name="pytest for test_graphs.TestGraphDirected.test_cmp" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_graphs_py - 2018.09.07 at 11h 11m 38s.xml">
+      <configuration name="pytest in test_graphs.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_graphs_py - 2018.09.07 at 11h 12m 21s.xml">
+      <configuration name="pytest in test_graphs.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_graphs_py - 2018.09.07 at 11h 12m 49s.xml">
+      <configuration name="pytest in test_graphs.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_graphs_TestGraphDirected_test_subgraph - 2018.09.07 at 11h 15m 07s.xml">
+      <configuration name="pytest for test_graphs.TestGraphDirected.test_subgraph" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_graphs_TestGraphDirected_test_subgraph - 2018.09.07 at 11h 15m 12s.xml">
+      <configuration name="pytest for test_graphs.TestGraphDirected.test_subgraph" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_graphs_TestGraphDirected_test_subgraph - 2018.09.07 at 11h 15m 21s.xml">
+      <configuration name="pytest for test_graphs.TestGraphDirected.test_subgraph" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_kruskal_py - 2018.09.07 at 11h 29m 42s.xml">
+      <configuration name="pytest in test_kruskal.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_yamada_py - 2018.09.13 at 11h 56m 55s.xml">
+      <configuration name="Unittests in test_yamada.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_connected_nodes_set_py - 2018.09.14 at 17h 57m 08s.xml">
+      <configuration name="pytest in connected_nodes_set.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1440" y="23" width="1920" height="1057" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" x="1625" y="82" width="333" height="818" id="Project" order="0" sideWeight="0.49731183" side_tool="true" visible="true" weight="0.16850974" />
+      <window_info id="Structure" order="1" sideWeight="0.5013405" side_tool="true" weight="0.17693523" />
+      <window_info x="2087" y="204" width="626" height="694" id="Favorites" order="2" side_tool="true" type="FLOATING" weight="0.32964718" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.4989429" visible="true" weight="0.26943004" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5018182" side_tool="true" weight="0.3910828" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49818182" weight="0.30362695" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37823835" />
+      <window_info anchor="bottom" id="Python Console" order="4" side_tool="true" weight="0.21450777" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32953367" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32765958" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/yamada.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/networkx/algorithms/components/connected.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2370">
+          <caret line="161" column="68" selection-start-line="161" selection-start-column="66" selection-end-line="161" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/networkx/utils/misc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="206" column="4" selection-start-line="206" selection-start-column="4" selection-end-line="206" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/yamada.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-488">
+          <caret line="47" column="21" lean-forward="true" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/yamada-test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/json_files/annotation37730-37739.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/yamada-test-v02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="153" column="35" selection-start-line="153" selection-start-column="35" selection-end-line="153" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/Test-Enumerating_test_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="296" column="31" lean-forward="true" selection-start-line="296" selection-start-column="31" selection-end-line="296" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/kruskal_code_v01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="156" column="26" lean-forward="true" selection-start-line="156" selection-start-column="26" selection-end-line="156" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.2/python_stubs/1645314168/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="522" column="4" lean-forward="true" selection-start-line="522" selection-start-column="4" selection-end-line="522" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/1234567.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-145">
+          <caret line="92" column="37" lean-forward="true" selection-start-line="92" selection-start-column="37" selection-end-line="92" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/json_files/37532.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34440">
+          <caret line="2296" column="30" selection-start-line="2296" selection-start-column="30" selection-end-line="2296" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-18-just_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Stage_One/just_test_9-21.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Stage_One/export.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret column="6570" selection-start-column="6560" selection-end-column="6570" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/json_files/37538.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49995">
+          <caret line="3333" column="24" lean-forward="true" selection-start-line="3333" selection-start-column="24" selection-end-line="3333" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/json_files/annotation37529-37538.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-801">
+          <caret column="1907" selection-start-column="1900" selection-end-column="1907" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/networkx/classes/digraph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="680" selection-start-line="680" selection-end-line="680" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/json_files/37529.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="943" column="30" selection-start-line="943" selection-start-column="28" selection-end-line="943" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/json_files/train2anno.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/json_files/37530.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="364" column="25" selection-start-line="364" selection-start-column="16" selection-end-line="364" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Stage_One/generate_all_trees_in_subgraph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1537938509174" expanded="true" signature="817:821" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Stage_One/json_to_all_trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="67" column="32" lean-forward="true" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
+          <folding>
+            <element signature="e#2705#2716#0" expanded="true" />
+            <marker date="1537952053752" expanded="true" signature="3287:3288" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_roop_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+          <folding>
+            <marker date="1537956711514" expanded="true" signature="224:618" ph="..." />
+            <marker date="1537956711514" expanded="true" signature="683:688" ph="..." />
+            <marker date="1537956711514" expanded="true" signature="916:1263" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/dict_to_graph_to_tree.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/Weighted_graph_algorithm_python/edges.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/Weighted_graph_test/test_kruskal.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/Enumerating_test_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/annotation_01_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-297" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/BSF_Breadth-first search.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/dfs_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/generate_edges_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Stage_One/json_files/37529.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Practice/json_files/build_graph_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="347" selection-start-line="347" selection-end-line="347" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="295" column="45" selection-start-line="295" selection-start-column="45" selection-end-line="295" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_test_data/json_file/build_graph_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="112" column="33" selection-start-line="112" selection-start-column="33" selection-end-line="115" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Stage_One/change_one_json_to_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="50" column="1" lean-forward="true" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Stage_One/edges_format_conversion_divided.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="80" column="4" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="4" />
+          <folding>
+            <marker date="1538029145636" expanded="true" signature="1815:1820" ph="..." />
+            <marker date="1538029145636" expanded="true" signature="4061:4362" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_loop_edges_in_one_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="74" column="9" lean-forward="true" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
+          <folding>
+            <element signature="e#273#335#0" expanded="true" />
+            <marker date="1538034626169" expanded="true" signature="1187:2248" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_loop_edges_in_paragraph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+          <folding>
+            <element signature="e#712#733#0" expanded="true" />
+            <marker date="1538032250595" expanded="true" signature="1753:2080" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_edges_with_and_without_weight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+            <marker date="1538030752666" expanded="true" signature="1812:2287" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Stage_One/edges_format_conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="51" selection-start-line="51" selection-end-line="53" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Stage_One/nodes_connected_in_MST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="75" column="4" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_loop_node_more_than_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="150" lean-forward="true" selection-start-line="150" selection-end-line="150" />
+          <folding>
+            <element signature="e#140#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_node_id_category_name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="164" column="5" lean-forward="true" selection-start-line="164" selection-start-column="5" selection-end-line="164" selection-end-column="5" />
+          <folding>
+            <element signature="e#456#467#0" expanded="true" />
+            <marker date="1538036178423" expanded="true" signature="614:619" ph="..." />
+            <marker date="1538036178423" expanded="true" signature="838:1057" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_node_parent_relation_para.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="263" lean-forward="true" selection-start-line="263" selection-end-line="263" />
+          <folding>
+            <element signature="e#23#34#0" expanded="true" />
+            <marker date="1538038899002" expanded="true" signature="6342:8373" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
