@@ -1,3 +1,0 @@
-data/EncryptData
-ldk_proxy
-tsunagi

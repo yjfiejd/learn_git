@@ -1,6 +1,0 @@
-include data/EncryptData/*
-include README.txt
-include *.txt
-include tsunagi/*.so
-include tsunagi/*.dylib
-include ldk_proxy/*

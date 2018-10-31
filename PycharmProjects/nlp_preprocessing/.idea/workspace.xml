@@ -29,17 +29,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NLP_Annotation_Stage_One/change_one_json_to_dict.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="64" column="33" lean-forward="true" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
@@ -68,11 +58,6 @@
             <path>
               <item name="nlp_preprocessing" type="b2602c69:ProjectViewProjectNode" />
               <item name="nlp_preprocessing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nlp_preprocessing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nlp_preprocessing" type="462c0819:PsiDirectoryNode" />
-              <item name="NLP_Annotation_Stage_One" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
