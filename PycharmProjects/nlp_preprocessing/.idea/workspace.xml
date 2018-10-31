@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42174f49-bb0d-4e94-bbd6-2a77bd450617" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/.idea/yamada-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/1234567.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/yamada-test-v02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/yamada-master/yamada-test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Practice" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Practice" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/9-11_Graph_enumrating_test_02.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/Enumerating_test_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/Enumerating_test_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/Test-Enumerating_test_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/Test-Enumerating_test_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/generate_edges_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/generate_edges_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Practice/Kruskal_9_4_20_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/Kruskal_9_4_20_05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Practice/json_files/annotation37730-37739.json" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/json_files/annotation37730-37739.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Practice/kruskal_code/kruskal_code_v01.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Practice/Finding_all_spanning_tree/kruskal_code_v01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/111111.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/just_test_10.24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/change_format_for_loop_nodes_find_cheklist.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/change_format_for_loop_nodes_find_cheklist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/change_format_for_loop_nodes_in_10_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/change_format_for_loop_nodes_in_10_json.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/change_format_for_loop_nodes_in_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/change_format_for_loop_nodes_in_json.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/change_json_file_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/change_json_file_name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/change_one_json_to_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/change_one_json_to_dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/deal_with_clean_json_get_new_loop_relations_and_tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/deal_with_clean_json_get_new_loop_relations_and_tags.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/del_high_level_relations_in_one_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/del_high_level_relations_in_one_json.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/draw_changed_loop_nodes_just_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/draw_changed_loop_nodes_just_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/edges_format_conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/edges_format_conversion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/edges_format_conversion_divided.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/edges_format_conversion_divided.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_edges_with_and_without_weight.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_edges_with_and_without_weight.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_loop_edges_category_text_in_one_jsonfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_loop_edges_category_text_in_one_jsonfile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_loop_edges_in_one_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_Annotation_Stage_One/find_all_loop_edges_in_one_json.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP_Annotation_Stage_One/just_test_10.21.py" beforeDir="false" />
-    </list>
+    <list default="true" id="42174f49-bb0d-4e94-bbd6-2a77bd450617" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NLP_Annotation_Stage_One/change_one_json_to_dict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="63" column="42" lean-forward="true" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
+            <state relative-caret-position="364">
+              <caret line="64" column="33" lean-forward="true" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -75,7 +42,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/NLP_Annotation_Stage_One" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -189,8 +156,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/NLP_Annotation_Stage_One/change_one_json_to_dict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="63" column="42" lean-forward="true" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
+        <state relative-caret-position="364">
+          <caret line="64" column="33" lean-forward="true" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
         </state>
       </provider>
     </entry>
