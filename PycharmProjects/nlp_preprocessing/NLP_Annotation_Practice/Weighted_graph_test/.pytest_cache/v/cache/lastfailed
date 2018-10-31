@@ -1,0 +1,6 @@
+{
+  "test_edges.py::TestDirectedEdge::test_cmp": true,
+  "test_edges.py::TestDirectedEdge::test_repr": true,
+  "test_graphs.py::TestGraphDirected::test_add_graph_directed": true,
+  "test_kruskal.py::TestKruskal::test_kruskal": true
+}

@@ -1,0 +1,2179 @@
+{
+    "NLPResult": {
+        "concepts": [
+            {
+                "id": 106,
+                "pos": [
+                    1,
+                    18
+                ],
+                "relations": [],
+                "timestamps": 106,
+                "category": 28,
+                "text": "ClinicalDiagnosis"
+            },
+            {
+                "id": 1,
+                "pos": [
+                    20,
+                    22
+                ],
+                "relations": [],
+                "timestamps": 1,
+                "category": 7,
+                "text": "肝脏"
+            },
+            {
+                "id": 108,
+                "pos": [
+                    22,
+                    25
+                ],
+                "relations": [],
+                "timestamps": 108,
+                "category": 11,
+                "text": "占位性"
+            },
+            {
+                "id": 109,
+                "pos": [
+                    25,
+                    27
+                ],
+                "relations": [
+                    {
+                        "text": "肝脏",
+                        "src_id": 1,
+                        "type": 135
+                    },
+                    {
+                        "text": "占位性",
+                        "src_id": 108,
+                        "type": 134
+                    }
+                ],
+                "timestamps": 109,
+                "category": 53,
+                "text": "病变"
+            },
+            {
+                "id": 107,
+                "pos": [
+                    29,
+                    41
+                ],
+                "relations": [],
+                "timestamps": 107,
+                "category": 28,
+                "text": "ImageFinding"
+            },
+            {
+                "id": 4,
+                "pos": [
+                    43,
+                    45
+                ],
+                "relations": [],
+                "timestamps": 4,
+                "category": 7,
+                "text": "右肺"
+            },
+            {
+                "id": 5,
+                "pos": [
+                    45,
+                    47
+                ],
+                "relations": [
+                    {
+                        "text": "右肺",
+                        "src_id": 4,
+                        "type": 135
+                    }
+                ],
+                "timestamps": 5,
+                "category": 56,
+                "text": "下叶"
+            },
+            {
+                "id": 6,
+                "pos": [
+                    48,
+                    50
+                ],
+                "relations": [],
+                "timestamps": 6,
+                "category": 11,
+                "text": "多发"
+            },
+            {
+                "id": 111,
+                "pos": [
+                    50,
+                    52
+                ],
+                "relations": [],
+                "timestamps": 111,
+                "category": 54,
+                "text": "直径"
+            },
+            {
+                "id": 8,
+                "pos": [
+                    52,
+                    59
+                ],
+                "relations": [
+                    {
+                        "text": "直径",
+                        "src_id": 111,
+                        "type": 138
+                    }
+                ],
+                "timestamps": 8,
+                "category": 9,
+                "text": "小于1.5cm"
+            },
+            {
+                "id": 110,
+                "pos": [
+                    60,
+                    63
+                ],
+                "relations": [
+                    {
+                        "text": "小于1.5cm",
+                        "src_id": 8,
+                        "type": 134
+                    },
+                    {
+                        "text": "多发",
+                        "src_id": 6,
+                        "type": 134
+                    },
+                    {
+                        "text": "下叶",
+                        "src_id": 5,
+                        "type": 135
+                    },
+                    {
+                        "text": "边界",
+                        "src_id": 10,
+                        "type": 124
+                    }
+                ],
+                "timestamps": 110,
+                "category": 29,
+                "text": "结节灶"
+            },
+            {
+                "id": 10,
+                "pos": [
+                    64,
+                    66
+                ],
+                "relations": [
+                    {
+                        "text": "尚清",
+                        "src_id": 11,
+                        "type": 121
+                    }
+                ],
+                "timestamps": 10,
+                "category": 54,
+                "text": "边界"
+            },
+            {
+                "id": 11,
+                "pos": [
+                    66,
+                    68
+                ],
+                "relations": [],
+                "timestamps": 11,
+                "category": 92,
+                "text": "尚清"
+            },
+            {
+                "id": 112,
+                "pos": [
+                    69,
+                    71
+                ],
+                "relations": [],
+                "timestamps": 112,
+                "category": 3,
+                "text": "增强"
+            },
+            {
+                "id": 13,
+                "pos": [
+                    71,
+                    72
+                ],
+                "relations": [
+                    {
+                        "text": "增强",
+                        "src_id": 112,
+                        "type": 31
+                    }
+                ],
+                "timestamps": 13,
+                "category": 61,
+                "text": "后"
+            },
+            {
+                "id": 14,
+                "pos": [
+                    73,
+                    75
+                ],
+                "relations": [],
+                "timestamps": 14,
+                "category": 14,
+                "text": "轻度"
+            },
+            {
+                "id": 113,
+                "pos": [
+                    75,
+                    77
+                ],
+                "relations": [
+                    {
+                        "text": "轻度",
+                        "src_id": 14,
+                        "type": 134
+                    },
+                    {
+                        "text": "后",
+                        "src_id": 13,
+                        "type": 86
+                    },
+                    {
+                        "text": "结节灶",
+                        "src_id": 110,
+                        "type": 99
+                    }
+                ],
+                "timestamps": 113,
+                "category": 60,
+                "text": "强化"
+            },
+            {
+                "id": 114,
+                "pos": [
+                    78,
+                    80
+                ],
+                "relations": [],
+                "timestamps": 114,
+                "category": 7,
+                "text": "肝脏"
+            },
+            {
+                "id": 115,
+                "pos": [
+                    80,
+                    82
+                ],
+                "relations": [
+                    {
+                        "text": "肝脏",
+                        "src_id": 114,
+                        "type": 135
+                    }
+                ],
+                "timestamps": 115,
+                "category": 2,
+                "text": "肿瘤"
+            },
+            {
+                "id": 17,
+                "pos": [
+                    82,
+                    86
+                ],
+                "relations": [
+                    {
+                        "text": "肿瘤",
+                        "src_id": 115,
+                        "type": 135
+                    }
+                ],
+                "timestamps": 17,
+                "category": 4,
+                "text": "介入治疗"
+            },
+            {
+                "id": 18,
+                "pos": [
+                    86,
+                    88
+                ],
+                "relations": [
+                    {
+                        "text": "介入治疗",
+                        "src_id": 17,
+                        "type": 86
+                    }
+                ],
+                "timestamps": 18,
+                "category": 62,
+                "text": "术后"
+            },
+            {
+                "id": 116,
+                "pos": [
+                    88,
+                    90
+                ],
+                "relations": [
+                    {
+                        "text": "术后",
+                        "src_id": 18,
+                        "type": 86
+                    }
+                ],
+                "timestamps": 116,
+                "category": 10,
+                "text": "改变"
+            },
+            {
+                "id": 117,
+                "pos": [
+                    91,
+                    92
+                ],
+                "relations": [],
+                "timestamps": 117,
+                "category": 7,
+                "text": "肝"
+            },
+            {
+                "id": 118,
+                "pos": [
+                    92,
+                    97
+                ],
+                "relations": [
+                    {
+                        "text": "肝",
+                        "src_id": 117,
+                        "type": 135
+                    }
+                ],
+                "timestamps": 118,
+                "category": 56,
+                "text": "S7-8段"
+            },
+            {
+                "id": 119,
+                "pos": [
+                    98,
+                    100
+                ],
+                "relations": [],
+                "timestamps": 119,
+                "category": 11,
+                "text": "散在"
+            },
+            {
+                "id": 120,
+                "pos": [
+                    100,
+                    103
+                ],
+                "relations": [],
+                "timestamps": 120,
+                "category": 11,
+                "text": "团片状"
+            },
+            {
+                "id": 121,
+                "pos": [
+                    103,
+                    108
+                ],
+                "relations": [
+                    {
+                        "text": "S7-8段",
+                        "src_id": 118,
+                        "type": 135
+                    },
+                    {
+                        "text": "散在",
+                        "src_id": 119,
+                        "type": 134
+                    },
+                    {
+                        "text": "团片状",
+                        "src_id": 120,
+                        "type": 134
+                    },
+                    {
+                        "text": "边界",
+                        "src_id": 122,
+                        "type": 124
+                    }
+                ],
+                "timestamps": 121,
+                "category": 60,
+                "text": "碘油沉积影"
+            },
+            {
+                "id": 122,
+                "pos": [
+                    109,
+                    111
+                ],
+                "relations": [
+                    {
+                        "text": "不清",
+                        "src_id": 25,
+                        "type": 121
+                    }
+                ],
+                "timestamps": 122,
+                "category": 54,
+                "text": "边界"
+            },
+            {
+                "id": 25,
+                "pos": [
+                    111,
+                    113
+                ],
+                "relations": [],
+                "timestamps": 25,
+                "category": 92,
+                "text": "不清"
+            },
+            {
+                "id": 123,
+                "pos": [
+                    114,
+                    116
+                ],
+                "relations": [],
+                "timestamps": 123,
+                "category": 3,
+                "text": "增强"
+            },
+            {
+                "id": 27,
+                "pos": [
+                    116,
+                    117
+                ],
+                "relations": [
+                    {
+                        "text": "增强",
+                        "src_id": 123,
+                        "type": 31
+                    }
+                ],
+                "timestamps": 27,
+                "category": 61,
+                "text": "后"
+            },
+            {
+                "id": 124,
+                "pos": [
+                    118,
+                    120
+                ],
+                "relations": [],
+                "timestamps": 124,
+                "category": 15,
+                "text": "未见"
+            },
+            {
+                "id": 125,
+                "pos": [
+                    120,
+                    122
+                ],
+                "relations": [],
+                "timestamps": 125,
+                "category": 14,
+                "text": "明显"
+            },
+            {
+                "id": 126,
+                "pos": [
+                    122,
+                    124
+                ],
+                "relations": [
+                    {
+                        "text": "未见",
+                        "src_id": 124,
+                        "type": 86
+                    },
+                    {
+                        "text": "明显",
+                        "src_id": 125,
+                        "type": 134
+                    },
+                    {
+                        "text": "后",
+                        "src_id": 27,
+                        "type": 86
+                    },
+                    {
+                        "text": "碘油沉积影",
+                        "src_id": 121,
+                        "type": 99
+                    }
+                ],
+                "timestamps": 126,
+                "category": 60,
+                "text": "强化"
+            },
+            {
+                "id": 127,
+                "pos": [
+                    125,
+                    127
+                ],
+                "relations": [],
+                "timestamps": 127,
+                "category": 7,
+                "text": "肝脏"
+            },
+            {
+                "id": 190,
+                "pos": [
+                    125,
+                    132
+                ],
+                "relations": [],
+                "timestamps": 190,
+                "category": 93,
+                "text": "肝脏S5、7段"
+            },
+            {
+                "id": 186,
+                "pos": [
+                    127,
+                    129
+                ],
+                "relations": [],
+                "timestamps": 186,
+                "category": 7,
+                "text": "S5"
+            },
+            {
+                "id": 187,
+                "pos": [
+                    128,
+                    129
+                ],
+                "relations": [],
+                "timestamps": 187,
+                "category": 112,
+                "text": "5"
+            },
+            {
+                "id": 188,
+                "pos": [
+                    130,
+                    131
+                ],
+                "relations": [
+                    {
+                        "text": "5",
+                        "src_id": 187,
+                        "type": 127
+                    }
+                ],
+                "timestamps": 188,
+                "category": 112,
+                "text": "7"
+            },
+            {
+                "id": 189,
+                "pos": [
+                    131,
+                    132
+                ],
+                "relations": [
+                    {
+                        "text": "肝脏",
+                        "src_id": 127,
+                        "type": 135
+                    },
+                    {
+                        "text": "S5",
+                        "src_id": 186,
+                        "type": 135
+                    }
+                ],
+                "timestamps": 189,
+                "category": 56,
+                "text": "段"
+            },
+            {
+                "id": 128,
+                "pos": [
+                    132,
+                    134
+                ],
+                "relations": [],
+                "timestamps": 128,
+                "category": 11,
+                "text": "分别"
+            },
+            {
+                "id": 129,
+                "pos": [
+                    135,
+                    137
+                ],
+                "relations": [],
+                "timestamps": 129,
+                "category": 54,
+                "text": "直径"
+            },
+            {
+                "id": 32,
+                "pos": [
+                    137,
+                    144
+                ],
+                "relations": [
+                    {
+                        "text": "直径",
+                        "src_id": 129,
+                        "type": 138
+                    }
+                ],
+                "timestamps": 32,
+                "category": 9,
+                "text": "小于0.5cm"
+            },
+            {
+                "id": 130,
+                "pos": [
+                    145,
+                    146
+                ],
+                "relations": [],
+                "timestamps": 130,
+                "category": 11,
+                "text": "低"
+            },
+            {
+                "id": 131,
+                "pos": [
+                    146,
+                    148
+                ],
+                "relations": [
+                    {
+                        "text": "低",
+                        "src_id": 130,
+                        "type": 139
+                    }
+                ],
+                "timestamps": 131,
+                "category": 54,
+                "text": "密度"
+            },
+            {
+                "id": 132,
+                "pos": [
+                    148,
+                    149
+                ],
+                "relations": [
+                    {
+                        "text": "密度",
+                        "src_id": 131,
+                        "type": 134
+                    },
+                    {
+                        "text": "小于0.5cm",
+                        "src_id": 32,
+                        "type": 134
+                    },
+                    {
+                        "text": "分别",
+                        "src_id": 128,
+                        "type": 134
+                    },
+                    {
+                        "text": "边界",
+                        "src_id": 34,
+                        "type": 124
+                    },
+                    {
+                        "text": "段",
+                        "src_id": 189,
+                        "type": 135
+                    }
+                ],
+                "timestamps": 132,
+                "category": 29,
+                "text": "灶"
+            },
+            {
+                "id": 34,
+                "pos": [
+                    150,
+                    152
+                ],
+                "relations": [
+                    {
+                        "text": "尚清",
+                        "src_id": 35,
+                        "type": 121
+                    }
+                ],
+                "timestamps": 34,
+                "category": 54,
+                "text": "边界"
+            },
+            {
+                "id": 35,
+                "pos": [
+                    152,
+                    154
+                ],
+                "relations": [],
+                "timestamps": 35,
+                "category": 92,
+                "text": "尚清"
+            },
+            {
+                "id": 134,
+                "pos": [
+                    155,
+                    157
+                ],
+                "relations": [],
+                "timestamps": 134,
+                "category": 3,
+                "text": "增强"
+            },
+            {
+                "id": 37,
+                "pos": [
+                    157,
+                    158
+                ],
+                "relations": [
+                    {
+                        "text": "增强",
+                        "src_id": 134,
+                        "type": 31
+                    }
+                ],
+                "timestamps": 37,
+                "category": 61,
+                "text": "后"
+            },
+            {
+                "id": 135,
+                "pos": [
+                    159,
+                    161
+                ],
+                "relations": [],
+                "timestamps": 135,
+                "category": 15,
+                "text": "未见"
+            },
+            {
+                "id": 136,
+                "pos": [
+                    161,
+                    163
+                ],
+                "relations": [],
+                "timestamps": 136,
+                "category": 14,
+                "text": "明显"
+            },
+            {
+                "id": 137,
+                "pos": [
+                    163,
+                    165
+                ],
+                "relations": [
+                    {
+                        "text": "未见",
+                        "src_id": 135,
+                        "type": 86
+                    },
+                    {
+                        "text": "明显",
+                        "src_id": 136,
+                        "type": 134
+                    },
+                    {
+                        "text": "后",
+                        "src_id": 37,
+                        "type": 86
+                    },
+                    {
+                        "text": "灶",
+                        "src_id": 132,
+                        "type": 99
+                    }
+                ],
+                "timestamps": 137,
+                "category": 60,
+                "text": "强化"
+            },
+            {
+                "id": 138,
+                "pos": [
+                    166,
+                    167
+                ],
+                "relations": [],
+                "timestamps": 138,
+                "category": 7,
+                "text": "肝"
+            },
+            {
+                "id": 139,
+                "pos": [
+                    167,
+                    168
+                ],
+                "relations": [
+                    {
+                        "text": "肝",
+                        "src_id": 138,
+                        "type": 135
+                    }
+                ],
+                "timestamps": 139,
+                "category": 13,
+                "text": "内"
+            },
+            {
+                "id": 140,
+                "pos": [
+                    168,
+                    169
+                ],
+                "relations": [
+                    {
+                        "text": "肝",
+                        "src_id": 138,
+                        "type": 135
+                    }
+                ],
+                "timestamps": 140,
+                "category": 13,
+                "text": "外"
+            },
+            {
+                "id": 41,
+                "pos": [
+                    169,
+                    171
+                ],
+                "relations": [
+                    {
+                        "text": "内",
+                        "src_id": 139,
+                        "type": 135
+                    },
+                    {
+                        "text": "外",
+                        "src_id": 140,
+                        "type": 135
+                    }
+                ],
+                "timestamps": 41,
+                "category": 7,
+                "text": "胆管"
+            },
+            {
+                "id": 141,
+                "pos": [
+                    171,
+                    172
+                ],
+                "relations": [],
+                "timestamps": 141,
+                "category": 15,
+                "text": "无"
+            },
+            {
+                "id": 142,
+                "pos": [
+                    172,
+                    174
+                ],
+                "relations": [],
+                "timestamps": 142,
+                "category": 14,
+                "text": "明显"
+            },
+            {
+                "id": 143,
+                "pos": [
+                    174,
+                    176
+                ],
+                "relations": [
+                    {
+                        "text": "无",
+                        "src_id": 141,
+                        "type": 86
+                    },
+                    {
+                        "text": "明显",
+                        "src_id": 142,
+                        "type": 134
+                    },
+                    {
+                        "text": "胆管",
+                        "src_id": 41,
+                        "type": 135
+                    }
+                ],
+                "timestamps": 143,
+                "category": 53,
+                "text": "扩张"
+            },
+            {
+                "id": 44,
+                "pos": [
+                    177,
+                    179
+                ],
+                "relations": [
+                    {
+                        "text": "大小",
+                        "src_id": 45,
+                        "type": 124
+                    },
+                    {
+                        "text": "形态",
+                        "src_id": 46,
+                        "type": 124
+                    },
+                    {
+                        "text": "密度",
+                        "src_id": 48,
+                        "type": 124
+                    }
+                ],
+                "timestamps": 44,
+                "category": 7,
+                "text": "脾脏"
+            },
+            {
+                "id": 45,
+                "pos": [
+                    179,
+                    181
+                ],
+                "relations": [
+                    {
+                        "text": "如常",
+                        "src_id": 47,
+                        "type": 121
+                    }
+                ],
+                "timestamps": 45,
+                "category": 54,
+                "text": "大小"
+            },
+            {
+                "id": 46,
+                "pos": [
+                    181,
+                    183
+                ],
+                "relations": [
+                    {
+                        "text": "如常",
+                        "src_id": 47,
+                        "type": 121
+                    }
+                ],
+                "timestamps": 46,
+                "category": 54,
+                "text": "形态"
+            },
+            {
+                "id": 47,
+                "pos": [
+                    183,
+                    185
+                ],
+                "relations": [],
+                "timestamps": 47,
+                "category": 92,
+                "text": "如常"
+            },
+            {
+                "id": 48,
+                "pos": [
+                    186,
+                    188
+                ],
+                "relations": [
+                    {
+                        "text": "均匀",
+                        "src_id": 49,
+                        "type": 121
+                    }
+                ],
+                "timestamps": 48,
+                "category": 54,
+                "text": "密度"
+            },
+            {
+                "id": 49,
+                "pos": [
+                    188,
+                    190
+                ],
+                "relations": [],
+                "timestamps": 49,
+                "category": 92,
+                "text": "均匀"
+            },
+            {
+                "id": 144,
+                "pos": [
+                    191,
+                    193
+                ],
+                "relations": [],
+                "timestamps": 144,
+                "category": 15,
+                "text": "未见"
+            },
+            {
+                "id": 145,
+                "pos": [
+                    193,
+                    195
+                ],
+                "relations": [],
+                "timestamps": 145,
+                "category": 14,
+                "text": "明显"
+            },
+            {
+                "id": 51,
+                "pos": [
+                    195,
+                    197
+                ],
+                "relations": [],
+                "timestamps": 51,
+                "category": 92,
+                "text": "异常"
+            },
+            {
+                "id": 191,
+                "pos": [
+                    197,
+                    200
+                ],
+                "relations": [
+                    {
+                        "text": "异常",
+                        "src_id": 51,
+                        "type": 134
+                    },
+                    {
+                        "text": "明显",
+                        "src_id": 145,
+                        "type": 134
+                    },
+                    {
+                        "text": "未见",
+                        "src_id": 144,
+                        "type": 86
+                    },
+                    {
+                        "text": "脾脏",
+                        "src_id": 44,
+                        "type": 99
+                    }
+                ],
+                "timestamps": 191,
+                "category": 60,
+                "text": "强化灶"
+            },
+            {
+                "id": 192,
+                "pos": [
+                    201,
+                    204
+                ],
+                "relations": [],
+                "timestamps": 192,
+                "category": 56,
+                "text": "胆囊区"
+            },
+            {
+                "id": 54,
+                "pos": [
+                    204,
+                    206
+                ],
+                "relations": [],
+                "timestamps": 54,
+                "category": 15,
+                "text": "未见"
+            },
+            {
+                "id": 148,
+                "pos": [
+                    206,
+                    208
+                ],
+                "relations": [],
+                "timestamps": 148,
+                "category": 14,
+                "text": "明显"
+            },
+            {
+                "id": 149,
+                "pos": [
+                    208,
+                    210
+                ],
+                "relations": [],
+                "timestamps": 149,
+                "category": 92,
+                "text": "异常"
+            },
+            {
+                "id": 150,
+                "pos": [
+                    210,
+                    212
+                ],
+                "relations": [
+                    {
+                        "text": "异常",
+                        "src_id": 149,
+                        "type": 139
+                    }
+                ],
+                "timestamps": 150,
+                "category": 54,
+                "text": "密度"
+            },
+            {
+                "id": 151,
+                "pos": [
+                    212,
+                    213
+                ],
+                "relations": [
+                    {
+                        "text": "密度",
+                        "src_id": 150,
+                        "type": 134
+                    },
+                    {
+                        "text": "明显",
+                        "src_id": 148,
+                        "type": 134
+                    },
+                    {
+                        "text": "未见",
+                        "src_id": 54,
+                        "type": 86
+                    },
+                    {
+                        "text": "胆囊区",
+                        "src_id": 192,
+                        "type": 135
+                    }
+                ],
+                "timestamps": 151,
+                "category": 60,
+                "text": "影"
+            },
+            {
+                "id": 56,
+                "pos": [
+                    214,
+                    216
+                ],
+                "relations": [
+                    {
+                        "text": "大小",
+                        "src_id": 57,
+                        "type": 124
+                    },
+                    {
+                        "text": "形态",
+                        "src_id": 58,
+                        "type": 124
+                    }
+                ],
+                "timestamps": 56,
+                "category": 7,
+                "text": "胰腺"
+            },
+            {
+                "id": 57,
+                "pos": [
+                    216,
+                    218
+                ],
+                "relations": [
+                    {
+                        "text": "正常",
+                        "src_id": 59,
+                        "type": 121
+                    }
+                ],
+                "timestamps": 57,
+                "category": 54,
+                "text": "大小"
+            },
+            {
+                "id": 58,
+                "pos": [
+                    219,
+                    221
+                ],
+                "relations": [
+                    {
+                        "text": "正常",
+                        "src_id": 59,
+                        "type": 121
+                    }
+                ],
+                "timestamps": 58,
+                "category": 54,
+                "text": "形态"
+            },
+            {
+                "id": 59,
+                "pos": [
+                    221,
+                    223
+                ],
+                "relations": [],
+                "timestamps": 59,
+                "category": 92,
+                "text": "正常"
+            },
+            {
+                "id": 60,
+                "pos": [
+                    224,
+                    226
+                ],
+                "relations": [
+                    {
+                        "text": "胰腺",
+                        "src_id": 56,
+                        "type": 99
+                    },
+                    {
+                        "text": "密度",
+                        "src_id": 61,
+                        "type": 124
+                    }
+                ],
+                "timestamps": 60,
+                "category": 56,
+                "text": "实质"
+            },
+            {
+                "id": 61,
+                "pos": [
+                    226,
+                    228
+                ],
+                "relations": [
+                    {
+                        "text": "均匀",
+                        "src_id": 62,
+                        "type": 121
+                    }
+                ],
+                "timestamps": 61,
+                "category": 54,
+                "text": "密度"
+            },
+            {
+                "id": 62,
+                "pos": [
+                    228,
+                    230
+                ],
+                "relations": [],
+                "timestamps": 62,
+                "category": 92,
+                "text": "均匀"
+            },
+            {
+                "id": 152,
+                "pos": [
+                    231,
+                    233
+                ],
+                "relations": [],
+                "timestamps": 152,
+                "category": 15,
+                "text": "未见"
+            },
+            {
+                "id": 153,
+                "pos": [
+                    233,
+                    235
+                ],
+                "relations": [],
+                "timestamps": 153,
+                "category": 14,
+                "text": "明显"
+            },
+            {
+                "id": 64,
+                "pos": [
+                    235,
+                    237
+                ],
+                "relations": [],
+                "timestamps": 64,
+                "category": 92,
+                "text": "异常"
+            },
+            {
+                "id": 193,
+                "pos": [
+                    237,
+                    240
+                ],
+                "relations": [
+                    {
+                        "text": "异常",
+                        "src_id": 64,
+                        "type": 134
+                    },
+                    {
+                        "text": "明显",
+                        "src_id": 153,
+                        "type": 134
+                    },
+                    {
+                        "text": "未见",
+                        "src_id": 152,
+                        "type": 86
+                    },
+                    {
+                        "text": "实质",
+                        "src_id": 60,
+                        "type": 99
+                    }
+                ],
+                "timestamps": 193,
+                "category": 60,
+                "text": "强化灶"
+            },
+            {
+                "id": 66,
+                "pos": [
+                    241,
+                    243
+                ],
+                "relations": [],
+                "timestamps": 66,
+                "category": 7,
+                "text": "胰管"
+            },
+            {
+                "id": 67,
+                "pos": [
+                    243,
+                    244
+                ],
+                "relations": [],
+                "timestamps": 67,
+                "category": 15,
+                "text": "无"
+            },
+            {
+                "id": 155,
+                "pos": [
+                    244,
+                    246
+                ],
+                "relations": [
+                    {
+                        "text": "胰管",
+                        "src_id": 66,
+                        "type": 135
+                    },
+                    {
+                        "text": "无",
+                        "src_id": 67,
+                        "type": 86
+                    }
+                ],
+                "timestamps": 155,
+                "category": 53,
+                "text": "扩张"
+            },
+            {
+                "id": 185,
+                "pos": [
+                    247,
+                    249
+                ],
+                "relations": [],
+                "timestamps": 185,
+                "category": 56,
+                "text": "胰周"
+            },
+            {
+                "id": 70,
+                "pos": [
+                    249,
+                    251
+                ],
+                "relations": [],
+                "timestamps": 70,
+                "category": 15,
+                "text": "未见"
+            },
+            {
+                "id": 71,
+                "pos": [
+                    251,
+                    253
+                ],
+                "relations": [
+                    {
+                        "text": "未见",
+                        "src_id": 70,
+                        "type": 86
+                    },
+                    {
+                        "text": "胰周",
+                        "src_id": 185,
+                        "type": 135
+                    }
+                ],
+                "timestamps": 71,
+                "category": 53,
+                "text": "渗出"
+            },
+            {
+                "id": 72,
+                "pos": [
+                    254,
+                    256
+                ],
+                "relations": [
+                    {
+                        "text": "大小",
+                        "src_id": 75,
+                        "type": 124
+                    }
+                ],
+                "timestamps": 72,
+                "category": 7,
+                "text": "两肾"
+            },
+            {
+                "id": 73,
+                "pos": [
+                    256,
+                    258
+                ],
+                "relations": [
+                    {
+                        "text": "两肾",
+                        "src_id": 72,
+                        "type": 135
+                    },
+                    {
+                        "text": "光整",
+                        "src_id": 74,
+                        "type": 121
+                    }
+                ],
+                "timestamps": 73,
+                "category": 56,
+                "text": "包膜"
+            },
+            {
+                "id": 74,
+                "pos": [
+                    258,
+                    260
+                ],
+                "relations": [],
+                "timestamps": 74,
+                "category": 92,
+                "text": "光整"
+            },
+            {
+                "id": 75,
+                "pos": [
+                    261,
+                    263
+                ],
+                "relations": [
+                    {
+                        "text": "正常",
+                        "src_id": 76,
+                        "type": 121
+                    }
+                ],
+                "timestamps": 75,
+                "category": 54,
+                "text": "大小"
+            },
+            {
+                "id": 76,
+                "pos": [
+                    263,
+                    265
+                ],
+                "relations": [],
+                "timestamps": 76,
+                "category": 92,
+                "text": "正常"
+            },
+            {
+                "id": 77,
+                "pos": [
+                    266,
+                    268
+                ],
+                "relations": [],
+                "timestamps": 77,
+                "category": 7,
+                "text": "左肾"
+            },
+            {
+                "id": 78,
+                "pos": [
+                    268,
+                    270
+                ],
+                "relations": [
+                    {
+                        "text": "左肾",
+                        "src_id": 77,
+                        "type": 135
+                    }
+                ],
+                "timestamps": 78,
+                "category": 56,
+                "text": "中极"
+            },
+            {
+                "id": 156,
+                "pos": [
+                    271,
+                    273
+                ],
+                "relations": [],
+                "timestamps": 156,
+                "category": 54,
+                "text": "直径"
+            },
+            {
+                "id": 157,
+                "pos": [
+                    273,
+                    274
+                ],
+                "relations": [],
+                "timestamps": 157,
+                "category": 16,
+                "text": "约"
+            },
+            {
+                "id": 79,
+                "pos": [
+                    274,
+                    279
+                ],
+                "relations": [
+                    {
+                        "text": "约",
+                        "src_id": 157,
+                        "type": 134
+                    },
+                    {
+                        "text": "直径",
+                        "src_id": 156,
+                        "type": 138
+                    }
+                ],
+                "timestamps": 79,
+                "category": 9,
+                "text": "0.8cm"
+            },
+            {
+                "id": 158,
+                "pos": [
+                    280,
+                    281
+                ],
+                "relations": [],
+                "timestamps": 158,
+                "category": 11,
+                "text": "低"
+            },
+            {
+                "id": 159,
+                "pos": [
+                    281,
+                    283
+                ],
+                "relations": [
+                    {
+                        "text": "低",
+                        "src_id": 158,
+                        "type": 139
+                    }
+                ],
+                "timestamps": 159,
+                "category": 54,
+                "text": "密度"
+            },
+            {
+                "id": 194,
+                "pos": [
+                    283,
+                    286
+                ],
+                "relations": [],
+                "timestamps": 194,
+                "category": 11,
+                "text": "无强化"
+            },
+            {
+                "id": 195,
+                "pos": [
+                    286,
+                    287
+                ],
+                "relations": [
+                    {
+                        "text": "密度",
+                        "src_id": 159,
+                        "type": 134
+                    },
+                    {
+                        "text": "无强化",
+                        "src_id": 194,
+                        "type": 134
+                    },
+                    {
+                        "text": "0.8cm",
+                        "src_id": 79,
+                        "type": 134
+                    },
+                    {
+                        "text": "中极",
+                        "src_id": 78,
+                        "type": 135
+                    },
+                    {
+                        "text": "界",
+                        "src_id": 161,
+                        "type": 124
+                    }
+                ],
+                "timestamps": 195,
+                "category": 60,
+                "text": "灶"
+            },
+            {
+                "id": 161,
+                "pos": [
+                    288,
+                    289
+                ],
+                "relations": [
+                    {
+                        "text": "清",
+                        "src_id": 162,
+                        "type": 121
+                    }
+                ],
+                "timestamps": 161,
+                "category": 54,
+                "text": "界"
+            },
+            {
+                "id": 162,
+                "pos": [
+                    289,
+                    290
+                ],
+                "relations": [],
+                "timestamps": 162,
+                "category": 92,
+                "text": "清"
+            },
+            {
+                "id": 83,
+                "pos": [
+                    291,
+                    293
+                ],
+                "relations": [],
+                "timestamps": 83,
+                "category": 7,
+                "text": "腹腔"
+            },
+            {
+                "id": 84,
+                "pos": [
+                    293,
+                    294
+                ],
+                "relations": [
+                    {
+                        "text": "腹腔",
+                        "src_id": 83,
+                        "type": 135
+                    }
+                ],
+                "timestamps": 84,
+                "category": 13,
+                "text": "内"
+            },
+            {
+                "id": 85,
+                "pos": [
+                    295,
+                    299
+                ],
+                "relations": [],
+                "timestamps": 85,
+                "category": 7,
+                "text": "后腹膜区"
+            },
+            {
+                "id": 163,
+                "pos": [
+                    299,
+                    301
+                ],
+                "relations": [],
+                "timestamps": 163,
+                "category": 15,
+                "text": "未见"
+            },
+            {
+                "id": 164,
+                "pos": [
+                    301,
+                    303
+                ],
+                "relations": [],
+                "timestamps": 164,
+                "category": 14,
+                "text": "明显"
+            },
+            {
+                "id": 165,
+                "pos": [
+                    303,
+                    305
+                ],
+                "relations": [],
+                "timestamps": 165,
+                "category": 92,
+                "text": "肿大"
+            },
+            {
+                "id": 166,
+                "pos": [
+                    305,
+                    308
+                ],
+                "relations": [
+                    {
+                        "text": "未见",
+                        "src_id": 163,
+                        "type": 86
+                    },
+                    {
+                        "text": "明显",
+                        "src_id": 164,
+                        "type": 134
+                    },
+                    {
+                        "text": "肿大",
+                        "src_id": 165,
+                        "type": 134
+                    },
+                    {
+                        "text": "后腹膜区",
+                        "src_id": 85,
+                        "type": 135
+                    },
+                    {
+                        "text": "内",
+                        "src_id": 84,
+                        "type": 135
+                    }
+                ],
+                "timestamps": 166,
+                "category": 7,
+                "text": "淋巴结"
+            },
+            {
+                "id": 88,
+                "pos": [
+                    309,
+                    311
+                ],
+                "relations": [],
+                "timestamps": 88,
+                "category": 7,
+                "text": "腹腔"
+            },
+            {
+                "id": 89,
+                "pos": [
+                    311,
+                    312
+                ],
+                "relations": [
+                    {
+                        "text": "腹腔",
+                        "src_id": 88,
+                        "type": 135
+                    }
+                ],
+                "timestamps": 89,
+                "category": 13,
+                "text": "内"
+            },
+            {
+                "id": 167,
+                "pos": [
+                    312,
+                    314
+                ],
+                "relations": [],
+                "timestamps": 167,
+                "category": 15,
+                "text": "未见"
+            },
+            {
+                "id": 168,
+                "pos": [
+                    314,
+                    316
+                ],
+                "relations": [],
+                "timestamps": 168,
+                "category": 14,
+                "text": "明显"
+            },
+            {
+                "id": 169,
+                "pos": [
+                    316,
+                    318
+                ],
+                "relations": [
+                    {
+                        "text": "未见",
+                        "src_id": 167,
+                        "type": 86
+                    },
+                    {
+                        "text": "明显",
+                        "src_id": 168,
+                        "type": 134
+                    },
+                    {
+                        "text": "征象",
+                        "src_id": 170,
+                        "type": 121
+                    },
+                    {
+                        "text": "内",
+                        "src_id": 89,
+                        "type": 135
+                    }
+                ],
+                "timestamps": 169,
+                "category": 29,
+                "text": "腹水"
+            },
+            {
+                "id": 170,
+                "pos": [
+                    318,
+                    320
+                ],
+                "relations": [],
+                "timestamps": 170,
+                "category": 123,
+                "text": "征象"
+            },
+            {
+                "id": 171,
+                "pos": [
+                    323,
+                    333
+                ],
+                "relations": [],
+                "timestamps": 171,
+                "category": 28,
+                "text": "Impression"
+            },
+            {
+                "id": 172,
+                "pos": [
+                    337,
+                    338
+                ],
+                "relations": [],
+                "timestamps": 172,
+                "category": 7,
+                "text": "肝"
+            },
+            {
+                "id": 173,
+                "pos": [
+                    338,
+                    343
+                ],
+                "relations": [
+                    {
+                        "text": "肝",
+                        "src_id": 172,
+                        "type": 135
+                    }
+                ],
+                "timestamps": 173,
+                "category": 56,
+                "text": "S7-8段"
+            },
+            {
+                "id": 174,
+                "pos": [
+                    343,
+                    345
+                ],
+                "relations": [
+                    {
+                        "text": "S7-8段",
+                        "src_id": 173,
+                        "type": 135
+                    }
+                ],
+                "timestamps": 174,
+                "category": 29,
+                "text": "占位"
+            },
+            {
+                "id": 175,
+                "pos": [
+                    345,
+                    347
+                ],
+                "relations": [
+                    {
+                        "text": "占位",
+                        "src_id": 174,
+                        "type": 135
+                    }
+                ],
+                "timestamps": 175,
+                "category": 4,
+                "text": "介入"
+            },
+            {
+                "id": 176,
+                "pos": [
+                    347,
+                    349
+                ],
+                "relations": [
+                    {
+                        "text": "介入",
+                        "src_id": 175,
+                        "type": 86
+                    }
+                ],
+                "timestamps": 176,
+                "category": 62,
+                "text": "术后"
+            },
+            {
+                "id": 196,
+                "pos": [
+                    349,
+                    351
+                ],
+                "relations": [
+                    {
+                        "text": "术后",
+                        "src_id": 176,
+                        "type": 86
+                    }
+                ],
+                "timestamps": 196,
+                "category": 53,
+                "text": "改变"
+            },
+            {
+                "id": 179,
+                "pos": [
+                    363,
+                    364
+                ],
+                "relations": [],
+                "timestamps": 179,
+                "category": 7,
+                "text": "肝"
+            },
+            {
+                "id": 180,
+                "pos": [
+                    364,
+                    366
+                ],
+                "relations": [
+                    {
+                        "text": "肝",
+                        "src_id": 179,
+                        "type": 135
+                    }
+                ],
+                "timestamps": 180,
+                "category": 56,
+                "text": "右叶"
+            },
+            {
+                "id": 100,
+                "pos": [
+                    367,
+                    369
+                ],
+                "relations": [],
+                "timestamps": 100,
+                "category": 7,
+                "text": "左肾"
+            },
+            {
+                "id": 101,
+                "pos": [
+                    369,
+                    371
+                ],
+                "relations": [],
+                "timestamps": 101,
+                "category": 11,
+                "text": "多发"
+            },
+            {
+                "id": 181,
+                "pos": [
+                    371,
+                    374
+                ],
+                "relations": [
+                    {
+                        "text": "多发",
+                        "src_id": 101,
+                        "type": 134
+                    },
+                    {
+                        "text": "左肾",
+                        "src_id": 100,
+                        "type": 135
+                    },
+                    {
+                        "text": "右叶",
+                        "src_id": 180,
+                        "type": 135
+                    }
+                ],
+                "timestamps": 181,
+                "category": 29,
+                "text": "小囊肿"
+            },
+            {
+                "id": 182,
+                "pos": [
+                    378,
+                    380
+                ],
+                "relations": [],
+                "timestamps": 182,
+                "category": 7,
+                "text": "右肺"
+            },
+            {
+                "id": 183,
+                "pos": [
+                    380,
+                    382
+                ],
+                "relations": [
+                    {
+                        "text": "右肺",
+                        "src_id": 182,
+                        "type": 135
+                    }
+                ],
+                "timestamps": 183,
+                "category": 56,
+                "text": "下叶"
+            },
+            {
+                "id": 104,
+                "pos": [
+                    382,
+                    384
+                ],
+                "relations": [],
+                "timestamps": 104,
+                "category": 11,
+                "text": "多发"
+            },
+            {
+                "id": 184,
+                "pos": [
+                    384,
+                    387
+                ],
+                "relations": [
+                    {
+                        "text": "下叶",
+                        "src_id": 183,
+                        "type": 135
+                    },
+                    {
+                        "text": "多发",
+                        "src_id": 104,
+                        "type": 134
+                    }
+                ],
+                "timestamps": 184,
+                "category": 29,
+                "text": "结节灶"
+            }
+        ]
+    },
+    "rawText": "【ClinicalDiagnosis】 肝脏占位性病变\n【ImageFinding】 右肺下叶见多发直径小于1.5cm的结节灶,边界尚清,增强后,轻度强化;肝脏肿瘤介入治疗术后改变,肝S7-8段见散在团片状碘油沉积影,边界不清,增强后,未见明显强化;肝脏S5、7段分别见直径小于0.5cm的低密度灶,边界尚清,增强后,未见明显强化,肝内外胆管无明显扩张;脾脏大小形态如常,密度均匀,未见明显异常强化灶;胆囊区未见明显异常密度影;胰腺大小、形态正常,实质密度均匀,未见明显异常强化灶,胰管无扩张,胰周未见渗出;两肾包膜光整,大小正常,左肾中极见直径约0.8cm的低密度无强化灶,界清;腹腔内及后腹膜区未见明显肿大淋巴结;腹腔内未见明显腹水征象。\n【Impression】 1.肝S7-8段占位介入术后改变,请结合临床随访。\n2.肝右叶、左肾多发小囊肿。\n4.右肺下叶多发结节灶,请结合临床随访。"
+}
